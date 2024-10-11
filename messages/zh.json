@@ -1,15 +1,15 @@
 {
   "Product": {
-    "name": "ScriptCraft",
-    "solgan": "创意到剧本，AI全程助力。"
+    "name": "个人设计网站",
+    "solgan": "设计，AI全程助力。"
   },
   "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "终极剧本创作工作平台",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "title": "终极创作工作平台",
+      "description": "打造您的作品。使用我们直观的工具和协作功能，提升您的作品创作过程。",
       "cta": "开始使用"
     },
     "Features": {
